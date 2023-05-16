@@ -1,4 +1,4 @@
-# filesbydate
+# foldersbydate
 
 Projemin amacı: Her çalıştığında size basit bir log kaydı tutmasını sağlar. "cmd.exe" açılır ve ünlü "tree" komutu çalıştırılarak bunu bir txt dosyası halinde kaydeder. Bu txt dosyasını sizin belirleyeceğiniz bir mail adresine yine sizin belirleyeceğiniz mail adresi ile gönderir. Kaydettiği tree komutunun çıktısını; o günün tarihi ile kayıt eder (ddmmyyyy.txt şeklinde).
 
